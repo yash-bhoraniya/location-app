@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">LocationApp</string>
+    <string name="location_source">Location Source</string>
+    <string name="no_place_available">No place available. \n Lets start by adding few places</string>
+    <string name="search_place">Search Place</string>
+    <string name="google_maps_api_key">AIzaSyBSNyp6GQnnKlrMr7hD2HGiyF365tFlK5U</string>
+    <string name="primary">Primary</string>
+    <string name="sort_by">SORT BY</string>
+    <string name="sort_distance_in_ascending_order">Sort distance in ascending order</string>
+    <string name="sort_distance_in_descending_order">Sort distance in descending order</string>
+    <string name="clear">Clear</string>
+    <string name="apply">Apply</string>
+    <string name="update">Update</string>
+    <string name="save">Save</string>
+    <string name="do_you_want_to_save_the_selected_location">do you want to save the selected location?</string>
+    <string name="do_you_want_to_update_the_selected_location">do you want to update the selected location?</string>
+    <string name="search_location">Search Location</string>
+    <string name="routing">Routing</string>
+    <string name="delete_saved_place">Delete Saved Place</string>
+    <string name="are_you_sure_you_want_to_delete_this_place_details_from_your_saved_list">Are you sure you want to delete this place details from your saved list</string>
+    <string name="ok">ok</string>
+    <string name="cancel">cancel</string>
+
+
+</resources>
